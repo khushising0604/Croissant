@@ -242,7 +242,7 @@ export const me = {
     {
       name: "Resume",
       icon: FaNewspaper,
-      uri: "https://drive.google.com/file/d/19Wsvb7Mfz49aQ9G3duH_6zLSAAAEtsMx/view?usp=drivesdk",
+      uri: "https://drive.google.com/file/d/1Eww9XYG5XPDWx4kgMCjlLM14topEL1Y4/view?usp=drivesdk",
       hover: {
         bg: ["brand.500", "brand.700"],
         color: "white",
